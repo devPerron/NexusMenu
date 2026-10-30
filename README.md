@@ -1,7 +1,4 @@
 <h1 align="center">NexusMenu</h1>
-<p align="center">
-  <img src="image.png" alt="sidapng"> <br>
-</p>
 
 NexusMenu is a Among Us mod that aims to give the best experience to the user with new features upcoming.
 
