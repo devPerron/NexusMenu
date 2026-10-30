@@ -1,11 +1,9 @@
-<h1 align="center">SidaMenu</h1>
+<h1 align="center">NexusMenu</h1>
 <p align="center">
   <img src="image.png" alt="sidapng"> <br>
 </p>
 
-SidaMenu is a Among Us mod that aims to give the best experience to the user with new features upcoming.
-
-DONT FUCKING MAKE STUPID ISSUES PLEASE.
+NexusMenu is a Among Us mod that aims to give the best experience to the user with new features upcoming.
 
 We have a [discord](https://discord.gg/gaQvGxK5F8) if you need help or have ideas!
 
