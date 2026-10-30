@@ -14,7 +14,7 @@ namespace NexusMenu
         public Rect windowRect = new Rect(20, 20, 667, 467);
         int selectedGroup = 0;
         public string[] groups = new string[] { "Self", "Game", "Roles", "Host", "Misc", "Spoofs", "About" };
-        public string version = "v1.0.1-tuff";
+        public string version = "v1.0.0-tuff";
 
         void Start()
         {
