@@ -21,10 +21,9 @@ We have a [discord](https://discord.gg/gaQvGxK5F8) if you need help or have idea
 and done! You got the mod ready!
 
 # Features
-- Reset Tasks (Host-Only)
-- Be Invisible
-- Red Quick Chat
-- Kill Impostors
+- Noclip
+- Speedhack
+- Teleport
 - [No Cooldown in vents](https://streamable.com/11qc3l)
 
 and more!
